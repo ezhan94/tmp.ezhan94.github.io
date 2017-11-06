@@ -1,5 +1,11 @@
 Supplementary materials to come soon...
 
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+
 <!---
 
 ---
