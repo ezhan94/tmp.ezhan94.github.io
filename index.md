@@ -5,7 +5,7 @@ Supplementary materials
 ### Small image
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-<img src=https://assets-cdn.github.com/images/icons/emoji/octocat.png width="10%">.
+<img src=https://assets-cdn.github.com/images/icons/emoji/octocat.png width="10%">
 
 <!---
 
