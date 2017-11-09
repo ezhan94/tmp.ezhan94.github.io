@@ -2,9 +2,9 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
-[[/img/groundtruth/gt_2.png|ALT TEXT]]
-[[/img/groundtruth/gt_2.png|ALT TEXT]]
-[[/img/groundtruth/gt_2.png|ALT TEXT]]
+| [![VideoBlocks](/img/groundtruth/gt_2.png)](http://videoblocks.com)  | [![AudioBlocks](/img/groundtruth/gt_5.png)](http://audioblocks.com) | [![GraphicStock](/img/groundtruth/gt_8.png)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
 
 
 <img src=/img/groundtruth/gt_2.png width="30%">
