@@ -1,12 +1,12 @@
 WORK IN PROGRESS until this line is removed
 
-Supplementary material for Bayesian Deep Learning workshop paper.
+3 more rollouts from MAGnet and baseline conditioned on the same ground truth.
 
-Shown below are 3 more rollouts from MAGnet and baseline conditioned on the same ground truth.
+**Left**: ground truth
 
-Left: ground truth
-Middle: baseline
-Right: MAGnet
+**Middle**: baseline
+
+**Right**: MAGnet
 
 
 Ex1
@@ -14,10 +14,14 @@ Ex1
 <img src="https://ezhan94.github.io/images/baseline/baseline_2.png" width="30%">
 <img src="https://ezhan94.github.io/images/magnet/magnet_2.png" width="30%">
 
+
+
 Ex2
 <img src="https://ezhan94.github.io/images/groundtruth/gt_5.png" width="30%">
 <img src="https://ezhan94.github.io/images/baseline/baseline_5.png" width="30%">
 <img src="https://ezhan94.github.io/images/magnet/magnet_5.png" width="30%">
+
+
 
 Ex3
 <img src="https://ezhan94.github.io/images/groundtruth/gt_8.png" width="30%">
