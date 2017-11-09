@@ -2,9 +2,9 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
-![](/img/gt_2.png)
-![](/img/gt_5.png)
-![](/img/gt_8.png)
+![](https://ezhan94.github.io/img/groundtruth/gt_2.png)
+![](https://ezhan94.github.io/img/groundtruth/gt_5.png)
+![](https://ezhan94.github.io/img/groundtruth/gt_8.png)
 
 
 <!---
