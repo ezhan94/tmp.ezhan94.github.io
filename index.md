@@ -2,7 +2,21 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
+
+
+<img src="https://ezhan94.github.io/img/groundtruth/gt_2.png" width="30%">
+<img src="https://ezhan94.github.io/img/groundtruth/gt_5.png" width="30%">
+<img src="https://ezhan94.github.io/img/groundtruth/gt_8.png" width="30%">
+
 <!---
+
+![](https://ezhan94.github.io/img/groundtruth/gt_2.png)
+![](https://ezhan94.github.io/img/groundtruth/gt_5.png)
+![](https://ezhan94.github.io/img/groundtruth/gt_8.png)
+
+<img src=/img/groundtruth/gt_2.png width="30%">
+<img src=/img/groundtruth/gt_5.png width="30%">
+<img src=/img/groundtruth/gt_8.png width="30%">
 
 ### Small image
 
