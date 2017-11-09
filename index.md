@@ -12,13 +12,13 @@ Rollouts in each row share the same first 10 frames (burn-in). Trajectories star
 <img src="https://ezhan94.github.io/images/baseline/baseline_2.png" width="30%">
 <img src="https://ezhan94.github.io/images/magnet/magnet_2.png" width="30%">
 
-
+<br/>
 
 <img src="https://ezhan94.github.io/images/groundtruth/gt_5.png" width="30%">
 <img src="https://ezhan94.github.io/images/baseline/baseline_5.png" width="30%">
 <img src="https://ezhan94.github.io/images/magnet/magnet_5.png" width="30%">
 
-
+<br/>
 
 <img src="https://ezhan94.github.io/images/groundtruth/gt_8.png" width="30%">
 <img src="https://ezhan94.github.io/images/baseline/baseline_8.png" width="30%">
