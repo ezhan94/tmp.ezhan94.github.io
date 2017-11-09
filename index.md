@@ -1,7 +1,4 @@
-WORK IN PROGRESS until this line is removed
-
 Rollouts in each row share the same first 10 frames (burn-in). Trajectories start from black dots.
-
 
 **Left**: ground truth  
 **Middle**: baseline  
