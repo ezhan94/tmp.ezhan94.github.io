@@ -2,6 +2,11 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
+[[/img/groundtruth/gt_2.png|ALT TEXT]]
+[[/img/groundtruth/gt_2.png|ALT TEXT]]
+[[/img/groundtruth/gt_2.png|ALT TEXT]]
+
+
 <img src=/img/groundtruth/gt_2.png width="30%">
 <img src=/img/groundtruth/gt_5.png width="30%">
 <img src=/img/groundtruth/gt_8.png width="30%">
