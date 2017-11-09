@@ -2,9 +2,8 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
-| [![VideoBlocks](/img/groundtruth/gt_2.png)](http://videoblocks.com)  | [![AudioBlocks](/img/groundtruth/gt_5.png)](http://audioblocks.com) | [![GraphicStock](/img/groundtruth/gt_8.png)](http://graphicstock.com) |
+| [![](/img/groundtruth/gt_2.png)](ground truth)  | [![](/img/groundtruth/gt_5.png)](baseline) | [![](/img/groundtruth/gt_8.png)](MAGnet) |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
 
 
 <img src=/img/groundtruth/gt_2.png width="30%">
