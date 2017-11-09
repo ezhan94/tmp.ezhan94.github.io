@@ -2,6 +2,10 @@ WORK IN PROGRESS until this line is removed
 
 Supplementary materials 
 
+<img src=/img/groundtruth/gt_2.png width="10%">
+<img src=https://assets-cdn.github.com/images/icons/emoji/octocat.png width="10%">
+<img src=https://assets-cdn.github.com/images/icons/emoji/octocat.png width="10%">
+
 <!---
 
 ### Small image
