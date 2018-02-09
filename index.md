@@ -1,3 +1,8 @@
+Update coming soon...
+
+
+<!---
+
 [Link to workshop paper](http://www.stephanzheng.com/pdf/magnet-generating-long.pdf)
 
 Rollouts in each row share the same first 10 frames (burn-in). Trajectories start from black dots.
@@ -29,6 +34,11 @@ Rollouts in each row share the same first 10 frames (burn-in). Trajectories star
 <img src="https://ezhan94.github.io/images/magnet/magnet_8.png" width="30%">
 
 [Video of MAGnet rollout](https://youtu.be/9gFVC6cXkRk)
+
+-->
+
+
+
 
 <!---
 
