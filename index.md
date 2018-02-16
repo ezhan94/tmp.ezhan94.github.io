@@ -1,16 +1,8 @@
-Our model generates rollouts by first sampling macro-goals (boxes), and then the next position for each player.
+Our model generates rollouts by first sampling macro-goals (boxes), and then sampling the next position for each player.
 
 <img src="https://ezhan94.github.io/images/magnet/magnet_8.png" width="30%">
 
-<br/>
-
-Videos of rollouts from our model:
-
-[Example 1](https://youtu.be/Zdti-ic1iCw)
-
-[Example 2](https://youtu.be/jo3Nhu2eu4I)
-
-<br/>
+Videos of rollouts from our model: [Example 1](https://youtu.be/Zdti-ic1iCw), [Example 2](https://youtu.be/jo3Nhu2eu4I)
 
 An interactive demo can be found [here](http://basketball-ai.com/).
 
